@@ -41,7 +41,7 @@ From augmenting data
 
 ## Result
 
-These three models were trained for 100. From these results, it shows that Transfer Learning model obtained highest accuracy with 85% validation accuracy, but validation and training accuracies of ResNet model are still slowly increasing, and Sequential model seems not suitable for this dataset
+Sequential and Transfer learning models were trained for 100 and ResNet model is trained from 300 epochs. From these results, it shows that Transfer Learning model obtained highest accuracy with 85% validation accuracy, but validation and training accuracies of ResNet model are still slowly increasing, and Sequential model seems not suitable for this dataset
 
 ### Sequential model
 
