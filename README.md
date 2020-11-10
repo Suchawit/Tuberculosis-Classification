@@ -53,5 +53,5 @@ These three models were trained for 100. From these results, it shows that Trans
 
 ### Transfer learning model
 
-<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Transfer_pic.png" width="600px"/>
+<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Transfer_Learning_pic.png" width="600px"/>
 
