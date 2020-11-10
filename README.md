@@ -1,5 +1,5 @@
 # Tuberculosis-Classification
-Apply deep learning to classify tuberculosis from chest x-ray images
+Apply deep learning techniques to classify tuberculosis from chest x-ray images
 
 
 ## Object
