@@ -1,7 +1,7 @@
 # Tuberculosis-Classification
 Apply deep learning techniques to classify tuberculosis from chest x-ray images
 
-<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Img/Chest_X.PNG" width="500px"/>
+<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Chest_X.PNG" width="500px"/>
 
 ## Object
 To implement a image classication software to predict from chest x-ray whether there is a tubercolosis or not using deep learning technique.
@@ -43,13 +43,13 @@ These three models were trained for 100. From these results, it shows that Trans
 
 ### Sequential model
 
-<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Squential_pic.PNG" width="600px"/>
+<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Squential_pic.png" width="600px"/>
 
 ### ResNet model
 
-<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/ResNet_pic.PNG" width="600px"/>
+<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/ResNet_pic.png" width="600px"/>
 
 ### Transfer learning model
 
-<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Transfer_Learning_pic.PNG" width="600px"/>
+<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Transfer_Learning_pic.png" width="600px"/>
 
