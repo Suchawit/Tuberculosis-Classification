@@ -7,4 +7,18 @@ to implement a image classication software to predict from chest x-ray whether t
 
 ## Requirement
 
+## Preprocessing Data
+
+### Reshape
+
+### Augmentation
+
+
+## Model
+
+1) [Transfer learning]() 
+2) [Resnet]()
+3) [Functinal]()
+4) [Sequential]()
+
 ## Result
