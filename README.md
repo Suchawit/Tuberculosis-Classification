@@ -41,7 +41,7 @@ From augmenting data
 
 ## Result
 
-These three models were trained for 100. From these results, it shows that Transfer Learning model obtained highest accuracy, but validation and training accuracies of other models are still slowly increasing.
+These three models were trained for 100. From these results, it shows that Transfer Learning model obtained highest accuracy with 85% validation accuracy, but validation and training accuracies of other models are still slowly increasing.
 
 ### Sequential model
 
