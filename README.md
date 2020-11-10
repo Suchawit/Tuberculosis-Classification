@@ -14,11 +14,19 @@ to implement a image classication software to predict from chest x-ray whether t
 ### Augmentation
 
 
-## Model
+## Model Implementation
 
-1) [Transfer learning]() 
-2) [Resnet]()
-3) [Functinal]()
-4) [Sequential]()
+1) [Sequential]()
+2) [ResNet]()
+3) [Transfer learning, MobileNetV2]() 
+
+
 
 ## Result
+
+These three models were trained for 100. From these results, it shows that Transfer Learning model obtained highest accuracy, but validation and training accuracies of other models are still slowly increasing.
+
+### Sequential model
+
+
+
