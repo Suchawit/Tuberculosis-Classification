@@ -17,9 +17,9 @@ To generate more data to be trained in the model using this command:
 
 ## Model Implementation
 
-1) [Sequential]()
-2) [ResNet]()
-3) [Transfer learning, MobileNetV2]() 
+1) [Sequential](https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Model/Xray_Seq.py)
+2) [ResNet](https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Model/Xray_ResNet.py)
+3) [Transfer learning, MobileNetV2](https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Model/Xray_Transfer_Learning.py) 
 
 
 
