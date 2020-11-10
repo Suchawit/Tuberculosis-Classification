@@ -20,12 +20,12 @@ Connect dataframe with images in specific directory with flow_from_dataframe com
 
 <img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Flow_from_dataframe.PNG" width="500px"/>
 
+`C:\\Users\\non_n\\Desktop\\Input\\sample\\images\\` path is where all images is stored
+
 ### Augmentation
 To generate more data to be trained in the model using this command:
 
-<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Augmentation.PNG" width="500px"/>
-
-`C:\\Users\\non_n\\Desktop\\Input\\sample\\images\\` path is where all images is stored
+<img src="https://github.com/Suchawit/Tuberculosis-Classification/blob/main/Img/Augmentation.PNG" width="300px"/>
 
 From augmenting data
 
