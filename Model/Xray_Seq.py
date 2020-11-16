@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[91]:
-
-
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 
@@ -36,52 +33,11 @@ df = pd.read_csv('./sample_labels.csv', usecols=["Image Index","Finding Labels"]
 
 df.loc[df['Finding Labels'] == 'No Finding', 'Finding Labels'] = 'NF'
 df.loc[df['Finding Labels'] != 'NF', 'Finding Labels'] = 'F'
-df
 
-
-# In[48]:
 
 
 print(os.listdir("."))
 
-
-# In[88]:
-
-
-
-
-
-# In[106]:
-
-
-
-
-
-# In[89]:
-
-
-
-
-
-# In[107]:
-
-
-
-
-
-# In[82]:
-
-
-
-
-
-# In[81]:
-
-
-
-
-
-# In[79]:
 
 
 train_df, validate_df = train_test_split(df, test_size=0.20, random_state=42)
@@ -89,19 +45,14 @@ train_df = train_df.reset_index(drop=True)
 validate_df = validate_df.reset_index(drop=True)
 
 
-# In[80]:
-
 
 train_df.shape
 
-
-# In[81]:
 
 
 validate_df
 
 
-# In[2]:
 
 
 
@@ -234,25 +185,9 @@ validation_generator = validation_datagen.flow_from_dataframe(
 )
 
 
-# In[144]:
-
-
-
-
-
-# In[145]:
-
-
-
-
-
-# In[146]:
-
 
 print (train_df.shape)
 
-
-# In[148]:
 
 
 
