@@ -218,19 +218,6 @@ validation_generator = validation_datagen.flow_from_dataframe(
 )
 
 
-# In[144]:
-
-
-
-
-
-# In[145]:
-
-
-
-
-
-# In[146]:
 
 
 print (train_df.shape)
