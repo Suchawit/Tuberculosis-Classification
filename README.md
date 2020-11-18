@@ -8,8 +8,8 @@ To implement a image classication software to predict from chest x-ray whether t
 
 ## Dataset
 
+[**NIH Chest X-rays**](https://www.kaggle.com/nih-chest-xrays/data)
 
-## Requirement
 
 ## Preprocessing Data
 Create binary classes from Pandas dataframe:
